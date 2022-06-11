@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    width: 1200px;
+    height: 1000px;
+    background: #FF5733;
+    margin: 0.5em auto; /*Esto es para que se ponga al medio 0.5em arriba y abajo auto es derecha y izquierda*/
+    padding: 0.5em;
+}
+
+.header{
+    height: 15%;
+    background: #FF5733;
+    border-radius: 1em;
+    margin: 1em;
+}
+
+.nav{
+    height: 10%;
+    background: #FF5733;
+    border-radius: 1em;
+    margin: 1em;
+}
+
+.secaside{
+    height: 50%;
+    margin: 1em;
+}
+.section
+{
+    height: 100vh;
+    width: 67%;
+    background: #FF5733;
+    float: left;
+    border-radius: 1em;
+}
+
+.article{
+    background: #FF5733;
+    margin: 1em;
+     width: 90%;
+    height: 20%;
+    border-radius: 1em ;
+}
+.aside{
+    width:30%;
+    height: 100%;
+    background: #FF5733;
+    float: right;
+    border-radius: 1em;
+    
+}
+
+.footer{
+    height: 18%;
+    background: #FF5733;
+    border-radius: 1em;
+    margin: 1em;
+}
