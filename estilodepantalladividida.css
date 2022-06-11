@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.izquierda{
+    background: #fff;
+    height: 70vh;
+    padding: 20px;
+}
+.derecha{
+    padding: 20px;
+    background: #fff;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 75vh;
+}
+
+#pantalla-dividida{
+    display: flex;
+}
+  
+  .logo-text {
+    text-align: center;
+    margin: 80px 0;
+  }
+  
+  header h2{
+    color: white;
+    position: relative;
+    font-size: 30px;
+  }
+  
+
+  .derecha label {
+    display: block;
+    font-size: 16px;
+    font-weight: 900;
+  }
+  
+  .form-contact {
+     margin-top: 20px;
+  }
+  
+  .controls {
+    width: 400px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    border: 1px solid #cecaca;
+    background: #f1f1f1;
+    padding: 14px 12px;
+    margin: 8px 0
+  }
+  
+  .files {
+    margin-bottom: 10px;
+  }
+  
+  .buttons {
+    background: black;
+    border:none;
+    color: white;
+    font-size: 18px;
+    display: block;
+    margin: auto;
+    padding: 20px 60px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
