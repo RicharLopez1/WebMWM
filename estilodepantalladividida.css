@@ -5,7 +5,7 @@ body{
 }
 .izquierda{
     background: #fff;
-    height: 70vh;
+    height: 90vh;
     padding: 20px;
 }
 .derecha{
@@ -14,7 +14,7 @@ body{
     background-size: cover;
     background-position: center;
     width: 50%;
-    height: 75vh;
+    height: 90vh;
 }
 
 #pantalla-dividida{
@@ -68,4 +68,13 @@ body{
     padding: 20px 60px;
     cursor: pointer;
     margin-top: 20px;
+  }
+ header {
+    width: 450px;
+    margin: auto;
+    background: #ccc;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
   }
